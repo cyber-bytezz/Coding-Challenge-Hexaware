@@ -1,0 +1,2 @@
+# Ignore all JetBrains IDE (IntelliJ, PyCharm, WebStorm) settings
+.idea/
