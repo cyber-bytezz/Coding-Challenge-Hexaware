@@ -13,7 +13,7 @@ products = [
 ]
 
 # Create store and services
-store = Store(1, "TechStore", "TamilNadu", products)
+store = Store(1, "Electronic Store", "TamilNadu", products)
 store_service = StoreServiceImpl(store)
 
 # Get customer details dynamically at the start

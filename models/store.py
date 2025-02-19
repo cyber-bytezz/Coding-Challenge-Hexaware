@@ -1,7 +1,7 @@
 class Store:
     """Represents a store with products and location."""
 
-    #Store Act as an container of all products
+    #Store Act as a container of all products
     def __init__(self, store_id: int, name: str, location: str, product_list: list):
         """Initialize store with ID, name, location, and products."""
         self.store_id = store_id
